@@ -1,5 +1,4 @@
 Gastrointestinal Cancer Biomarker Discovery
-Project Overview
 
 This repository contains the code and documentation for my master's thesis project, which focused on the identification of protein biomarker panels for the differential diagnosis of gastrointestinal (GI) cancers. The project leverages antibody microarray data to uncover tumor-specific protein signatures across gastric, colorectal, liver, and pancreatic cancers.
 
@@ -15,3 +14,10 @@ Key Results
 
 Identification of protein marker panels with high sensitivity and specificity for PDAC and other GI cancers
 Demonstration of machine learning models for robust classification based on protein expression data
+
+Core Scripts to Include:
+  Data Preprocessing Workflow from GPR files/GenePix Slides
+  Differential expresion analysis
+  ROC Analysis Pipeline
+  Machine Learning Classification
+  Visualization Functions
