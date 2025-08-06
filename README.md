@@ -16,7 +16,7 @@ Identification of protein marker panels with high sensitivity and specificity fo
 Demonstration of machine learning models for robust classification based on protein expression data
 
 Core Scripts to Include:
--Data Preprocessing Workflow from GPR files/GenePix Slides
+- Data Preprocessing Workflow from GPR files/GenePix Slides
 - Differential expresion analysis
 - ROC Analysis Pipeline
 - Machine Learning Classification
