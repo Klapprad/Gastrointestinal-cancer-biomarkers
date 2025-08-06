@@ -1,3 +1,6 @@
+Project originally developed in 2022, published in 2025.
+
+
 Gastrointestinal Cancer Biomarker Discovery
 
 This repository contains the code and documentation for my master's thesis project, which focused on the identification of protein biomarker panels for the differential diagnosis of gastrointestinal (GI) cancers. The project leverages antibody microarray data to uncover tumor-specific protein signatures across gastric, colorectal, liver, and pancreatic cancers.
