@@ -1,4 +1,4 @@
-Project originally developed in 2022, published in 2025.
+Master Thesis project from 2022
 
 
 Gastrointestinal Cancer Biomarker Discovery
